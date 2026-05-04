@@ -1,0 +1,16 @@
+# Environments
+env/
+venv/
+.env
+
+# Cache
+__pycache__/
+*.pyc
+
+# Large files
+best_model.pth
+dataset_12K.zip
+dataset_12K/
+
+# Jupyter
+.ipynb_checkpoints/

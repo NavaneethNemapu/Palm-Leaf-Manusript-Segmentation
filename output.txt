@@ -1,0 +1,87 @@
+
+Training started...
+Epoch [1/50]: 100%|██████████| 187/187 [05:45<00:00,  1.85s/it, dice=0.978, loss=0.102, meaniou=0.958]
+Epoch [1/50] Summary -> Loss: 0.1710 | Mean IoU: 0.9474 | Dice: 0.9728
+🌟 Mean IoU improved from 0.0000 to 0.9474. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [2/50]: 100%|██████████| 187/187 [05:45<00:00,  1.85s/it, dice=0.975, loss=0.108, meaniou=0.952] 
+Epoch [2/50] Summary -> Loss: 0.1040 | Mean IoU: 0.9545 | Dice: 0.9767
+🌟 Mean IoU improved from 0.9474 to 0.9545. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [3/50]: 100%|██████████| 187/187 [05:45<00:00,  1.85s/it, dice=0.976, loss=0.101, meaniou=0.954] 
+Epoch [3/50] Summary -> Loss: 0.0978 | Mean IoU: 0.9558 | Dice: 0.9774
+🌟 Mean IoU improved from 0.9545 to 0.9558. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [4/50]: 100%|██████████| 187/187 [05:46<00:00,  1.85s/it, dice=0.975, loss=0.104, meaniou=0.952] 
+Epoch [4/50] Summary -> Loss: 0.0949 | Mean IoU: 0.9567 | Dice: 0.9779
+🌟 Mean IoU improved from 0.9558 to 0.9567. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [5/50]: 100%|██████████| 187/187 [05:46<00:00,  1.85s/it, dice=0.979, loss=0.0923, meaniou=0.958]
+Epoch [5/50] Summary -> Loss: 0.0926 | Mean IoU: 0.9575 | Dice: 0.9783
+🌟 Mean IoU improved from 0.9567 to 0.9575. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [6/50]: 100%|██████████| 187/187 [05:45<00:00,  1.85s/it, dice=0.976, loss=0.0982, meaniou=0.954]
+Epoch [6/50] Summary -> Loss: 0.0904 | Mean IoU: 0.9583 | Dice: 0.9787
+🌟 Mean IoU improved from 0.9575 to 0.9583. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [7/50]: 100%|██████████| 187/187 [05:46<00:00,  1.85s/it, dice=0.98, loss=0.0851, meaniou=0.961] 
+Epoch [7/50] Summary -> Loss: 0.0882 | Mean IoU: 0.9591 | Dice: 0.9791
+🌟 Mean IoU improved from 0.9583 to 0.9591. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [8/50]: 100%|██████████| 187/187 [05:45<00:00,  1.85s/it, dice=0.981, loss=0.0789, meaniou=0.963]
+Epoch [8/50] Summary -> Loss: 0.0854 | Mean IoU: 0.9603 | Dice: 0.9798
+🌟 Mean IoU improved from 0.9591 to 0.9603. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [9/50]: 100%|██████████| 187/187 [05:46<00:00,  1.85s/it, dice=0.978, loss=0.0929, meaniou=0.956]
+Epoch [9/50] Summary -> Loss: 0.0817 | Mean IoU: 0.9618 | Dice: 0.9805
+🌟 Mean IoU improved from 0.9603 to 0.9618. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [10/50]: 100%|██████████| 187/187 [05:45<00:00,  1.85s/it, dice=0.984, loss=0.0666, meaniou=0.969]
+Epoch [10/50] Summary -> Loss: 0.0764 | Mean IoU: 0.9642 | Dice: 0.9817
+🌟 Mean IoU improved from 0.9618 to 0.9642. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [11/50]: 100%|██████████| 187/187 [05:43<00:00,  1.84s/it, dice=0.986, loss=0.0615, meaniou=0.972]
+Epoch [11/50] Summary -> Loss: 0.0689 | Mean IoU: 0.9676 | Dice: 0.9835
+🌟 Mean IoU improved from 0.9642 to 0.9676. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [12/50]: 100%|██████████| 187/187 [05:41<00:00,  1.83s/it, dice=0.987, loss=0.0539, meaniou=0.975]
+Epoch [12/50] Summary -> Loss: 0.0613 | Mean IoU: 0.9711 | Dice: 0.9853
+🌟 Mean IoU improved from 0.9676 to 0.9711. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [13/50]: 100%|██████████| 187/187 [05:40<00:00,  1.82s/it, dice=0.987, loss=0.0547, meaniou=0.974]
+Epoch [13/50] Summary -> Loss: 0.0549 | Mean IoU: 0.9740 | Dice: 0.9868
+🌟 Mean IoU improved from 0.9711 to 0.9740. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [14/50]: 100%|██████████| 187/187 [05:41<00:00,  1.82s/it, dice=0.988, loss=0.0505, meaniou=0.976]
+Epoch [14/50] Summary -> Loss: 0.0499 | Mean IoU: 0.9763 | Dice: 0.9880
+🌟 Mean IoU improved from 0.9740 to 0.9763. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [15/50]: 100%|██████████| 187/187 [05:40<00:00,  1.82s/it, dice=0.989, loss=0.0441, meaniou=0.979]
+Epoch [15/50] Summary -> Loss: 0.0464 | Mean IoU: 0.9780 | Dice: 0.9889
+🌟 Mean IoU improved from 0.9763 to 0.9780. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [16/50]: 100%|██████████| 187/187 [05:40<00:00,  1.82s/it, dice=0.99, loss=0.0424, meaniou=0.98]  
+Epoch [16/50] Summary -> Loss: 0.0438 | Mean IoU: 0.9792 | Dice: 0.9895
+🌟 Mean IoU improved from 0.9780 to 0.9792. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [17/50]: 100%|██████████| 187/187 [05:40<00:00,  1.82s/it, dice=0.989, loss=0.0471, meaniou=0.977]
+Epoch [17/50] Summary -> Loss: 0.0417 | Mean IoU: 0.9802 | Dice: 0.9900
+🌟 Mean IoU improved from 0.9792 to 0.9802. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [18/50]: 100%|██████████| 187/187 [05:40<00:00,  1.82s/it, dice=0.991, loss=0.0393, meaniou=0.981]
+Epoch [18/50] Summary -> Loss: 0.0399 | Mean IoU: 0.9810 | Dice: 0.9904
+🌟 Mean IoU improved from 0.9802 to 0.9810. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [19/50]: 100%|██████████| 187/187 [05:39<00:00,  1.82s/it, dice=0.991, loss=0.0367, meaniou=0.983]
+Epoch [19/50] Summary -> Loss: 0.0384 | Mean IoU: 0.9817 | Dice: 0.9908
+🌟 Mean IoU improved from 0.9810 to 0.9817. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [20/50]: 100%|██████████| 187/187 [05:39<00:00,  1.82s/it, dice=0.991, loss=0.0363, meaniou=0.983]
+Epoch [20/50] Summary -> Loss: 0.0373 | Mean IoU: 0.9822 | Dice: 0.9910
+🌟 Mean IoU improved from 0.9817 to 0.9822. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [21/50]: 100%|██████████| 187/187 [05:39<00:00,  1.82s/it, dice=0.991, loss=0.0388, meaniou=0.982]
+Epoch [21/50] Summary -> Loss: 0.0365 | Mean IoU: 0.9826 | Dice: 0.9912
+🌟 Mean IoU improved from 0.9822 to 0.9826. Saving new best model to /kaggle/working/best_model.pth...
+--------------------------------------------------
+Epoch [22/50]:  11%|█         | 20/187 [00:36<05:03,  1.82s/it, dice=0.992, loss=0.0316, meaniou=0.985]
