@@ -14,3 +14,15 @@ dataset_12K/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Removed from GitHub but kept locally
+test.py
+test.ipynb
+system_architecture.png
+"Screenshot 2026-05-03 122343.png"
+R.jpeg
+output.txt
+metrics_plot.png
+loss_plot.png
+generate_pdf_report.py
+generate_arch.py
