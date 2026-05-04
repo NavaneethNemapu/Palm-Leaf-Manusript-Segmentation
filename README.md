@@ -18,7 +18,6 @@ Palm leaf manuscripts are invaluable historical documents that suffer from degra
 - `Palm_Leaf_Segmentation_Report.pdf`: A comprehensive 4-page technical report detailing the methodology, system architecture, dataset, and training results over 50 epochs.
 - `best_model.pth`: (Local only) The saved PyTorch model weights after training.
 
-> **Note:** Large assets such as the 12K image dataset (`dataset_12K.zip`), model weights (`best_model.pth`), and testing/reference scripts are kept local and excluded from this GitHub repository via `.gitignore` to adhere to file size limits.
 
 ## Installation
 
